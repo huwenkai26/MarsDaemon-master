@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\exploded-aar\MarsDaemon-master\LibMarsdaemon\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="cedcc07e8a8f394f5fe44a8e1de94258c5593e0e">
+        <dex dex="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\pre-dexed\debug\classes-b1f5e71ed5a9b50dace2ab21fd80315b46a0c541.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\pre-dexed\debug\classes-a0c606f9590f2a391d45147cad6f85da3bda7b6c.jar" />
+    </item>
+    <item
+        jar="G:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-e8f40e45164be49f52c5a53519fa5aed6147513c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\pre-dexed\debug\classes-0b396ad46ae8a3cbcf816693eae3ff2a022fb736.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Administrator\Desktop\MarsDaemon-master\DemoMarsdaemon\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-2005beaa06a6a5acea8c684b8fba105896b58c9a.jar" />
+    </item>
+
+</items>
